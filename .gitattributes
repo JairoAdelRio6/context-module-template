@@ -1,0 +1,9 @@
+*.tex text
+*.lua text
+*.mkiv text diff=tex linguist-language=tex
+*.mkvi text diff=tex linguist-language=tex
+*.mklx text diff=tex linguist-language=tex
+*.mkxl text diff=tex linguist-language=tex
+*.lmt  text diff=lua linguist-language=lua
+*.lfg  text diff=lua linguist-language=lua
+*.cld  text diff=lua linguist-language=lua

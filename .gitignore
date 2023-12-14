@@ -1,0 +1,9 @@
+*.tuc
+*.tua
+*.tui
+*.bak
+*.log
+*.tmp
+*.pdf
+*.synctex
+*.syncctx

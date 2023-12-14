@@ -1,0 +1,7 @@
+if not modules then modules = { } end modules["t-module-template"] = {
+  version   = "2023-12-25",
+  comment   = "companion to t-module-template.mklx",
+  author    = "Jairo A. del Rio",
+  copyright = "Jairo A. del Rio",
+  license   = "MIT license",
+}
